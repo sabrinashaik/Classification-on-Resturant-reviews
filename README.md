@@ -1,6 +1,6 @@
 # Classification-on-Resturant-reviews
 
-Abstract: 
+# Abstract: 
 The paper here presents a classification machine learning model to classify
 restaurant reviews. The reviews are either positive or negative based on the 
 restaurant or the service it provides, the food of the restaurant, staff of the 
@@ -15,7 +15,7 @@ The models used for classifying the reviews are:
 2. K-Nearest Neighbor (KNN)
 3. Support Vector Machine with Principal Component Analysis (PCA)
 
-Introduction :
+# Introduction :
 In today’s  world technology and  automation in every sector  is rapidly increasing. People rely more on 
 mobile devices for almost every task in their day to day lives. Restaurant Business is a sector which has a very 
 large scope in automation and use of technology. At such times waiting for the waiter to take orders, delivering 
@@ -30,7 +30,7 @@ have to wait for the waiter to come to their table which is sometimes frustratin
 Storing  the statistical  data of  the restaurant  is a  very  tedious task.  There  is  need of  managing the  data of inventory, customer orders and reviews, staff ,payroll
 
 
-Conclusion: 
+# Conclusion: 
 Thus, in this project an efficient and  user-friendly method is proposed which will provide automated 
 systems in  the restaurant  and solve problems faced  by the  restaurants using technologies like  Android, Web 
 Development and Machine Learning. Interactive User Interfaces for the customers and restaurant staff will be 

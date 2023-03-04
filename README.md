@@ -1,12 +1,19 @@
 # Classification-on-Resturant-reviews
 
 Abstract: 
-The paper here presents a classification machine learning model to classify  restaurant reviews. The 
-reviews can be anything which are related to the food of the restaurant, staff of the restaurant and also overall 
-review of the restaurant. The model uses Support Vector Machine (SVM) algorithm for classifying the reviews. 
-The  classified  reviews  are  helpful  for the  restaurant  to  analyze  their  shortcomings  in  different  areas  and 
-improve the quality of food and service in the restaurant.  The reviews  are stored  on the  cloud and can be 
-accessed by the admin.
+The paper here presents a classification machine learning model to classify
+restaurant reviews. The reviews are either positive or negative based on the 
+restaurant or the service it provides, the food of the restaurant, staff of the 
+restaurant and the environment of the restaurant. A thorough study entailing 
+what are the factors that influence the classification of their opinion on the 
+restaurant has been taken into consideration with the help of various reviews 
+given by the customers. Implementing machine learning algorithms we come 
+to a conclusion on which classification algorithm works best with the given set 
+of reviews.
+The models used for classifying the reviews are:
+1. Support Vector Machine (SVM)
+2. K-Nearest Neighbor (KNN)
+3. Support Vector Machine with Principal Component Analysis (PCA)
 
 Introduction :
 In today’s  world technology and  automation in every sector  is rapidly increasing. People rely more on 
@@ -31,3 +38,10 @@ provided  and customers  can order  food  directly through the  module without i
 Machine Learning Models prediction of the food preferred by the customers and also information necessary for 
 the restaurant to grow in business through customer reviews and other data. The system saves a lot of time of the 
 customer as well as the restaurant staff and helps the restaurant in many ways.
+
+![image](https://user-images.githubusercontent.com/53271193/222926844-66d87ec5-6a66-43da-bad2-0fc411f26656.png)
+![image](https://user-images.githubusercontent.com/53271193/222926851-1224d1f2-fe4a-4245-b324-e5d83e46c1b5.png)
+
+![image](https://user-images.githubusercontent.com/53271193/222926854-76fec4f4-3ebf-4da7-aa15-61d20f776cb7.png)
+
+
